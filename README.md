@@ -11,21 +11,22 @@ I tried fixing most cases by reusing already existing cursors.
 Feel free to leave a comment here and eventually make a PR if you found a weird scenario like this.
 
 > I still encounter weird cursor changes on KDE:
-> like now, I'm using Kate with the Posy's default cursor set, but the beam is this weird little ugly one.
-> Even though I see Posy's beam in my browser.
+> like now, I'm using Kate with the Posy's default cursor set enabled, but the beam is a weird little ugly one. Though, Posy's beam is correctly displayed in my browser.
 
 ## What's in there
 
 I ported the following sets.
 Some of them use cursors form the *Extras* set: the black and mono black ones use the black hand and the inverted move cursor.
 
-### Posy's Cursor
+### Posy's Cursor (upscalable to 125% and 175%)
 
 ![Posy's Cursor](readme_files/Posy'sCursor.png)
 
-### Posy's Cursor Black
+### Posy's Cursor Black (upscalable to 125% and 175%)
 
 ![Posy's Cursor Black](readme_files/Posy'sCursorBlack.png)
+
+> The black hand cursor is only available in the classic size set, not the 125%/175%
 
 ### Posy's Cursor Mono
 
@@ -41,12 +42,16 @@ Some of them use cursors form the *Extras* set: the black and mono black ones us
 
 ## How to use
 
+### Using KDE's cursor store
+
 If you're on KDE, you can install [my cursor collection](https://www.pling.com/p/1795042/) directly from the settings:
 
 Go to the settings, search for a "cursors" menu in Appearance, click **Obtain new cursor...**, search for "Posy's improved cursor", click **Install...** and select the set you'd like to install.
 
+### Manual install (recommended)
+
 If you do not want to use the online library, you can download the folders containing the sets you want and add them in the _.icons_ folder in your Home directory (create it if you can't find it).
-Then, go to the Cursors menu in the Appearance settings and you should see the themes you imported.
+Then, if you are on KDE, go to the Cursors menu in the Appearance settings and you should see the themes you imported.
 
 The cursor sets are available in many sizes: 32, 48, 64, 96 and 128 pixels.
 
