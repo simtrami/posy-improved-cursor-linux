@@ -40,6 +40,10 @@ Some of them use cursors form the *Extras* set: the black and mono black ones us
 
 ![Posy's Cursor Strokeless](readme_files/Posy'sCursorStrokeless.png)
 
+### Posy's Cursor Left
+
+![Posy's Cursor Left](readme_files/PosysCursorLeft.png)
+
 ## How to use
 
 ### Using KDE's cursor store
