@@ -1,7 +1,11 @@
 # Posy's Improved Cursors for Linux
 
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
 This is a Linux port of Michiel de Boer's amazing cursor design.
 He presented it in a brilliant video in 2018: [Posy - Mouse Cursor History (and why I made my own)](https://www.youtube.com/watch?v=YThelfB2fvg)
+
+This work and the original work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc] (free to use, change and distribute for non-commercial use).
 
 The original work can be found on his website, [michieldb.nl](http://www.michieldb.nl/other/cursors/), as well as installers for Windows.
 
@@ -12,6 +16,9 @@ Feel free to leave a comment here and eventually make a PR if you found a weird 
 
 > I still encounter weird cursor changes on KDE:
 > like now, I'm using Kate with the Posy's default cursor set enabled, but the beam is a weird little ugly one. Though, Posy's beam is correctly displayed in my browser.
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 
 ## What's in there
 
